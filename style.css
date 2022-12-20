@@ -1,9 +1,13 @@
-*{
-    border-width: 1px;
-    border-color: bisque;
-    border-style: solid;
+body {
+    margin-left: 3rem;
+    margin-right: 3rem;
+    background-color: rgb(48,49,52);
 }
 
-.jumbotron{
-    background-color: rgb(69, 144, 144);
-}
+.p-5text-centerbg-image (   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+)
