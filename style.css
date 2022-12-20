@@ -1,1 +1,9 @@
+*{
+    border-width: 1px;
+    border-color: bisque;
+    border-style: solid;
+}
 
+.jumbotron{
+    background-color: rgb(69, 144, 144);
+}
