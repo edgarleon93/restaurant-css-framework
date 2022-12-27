@@ -55,6 +55,14 @@ div.container.text-start {
     width: 80vw;
 }
 
+/* product */
+
+.container.row.justify-content-around {
+    margin: 0px;
+    padding: 0px;
+}
+
+
 /* BUY PRODUCT */
 
 .table-product.table-striped tbody tr:nth-of-type(odd) {
@@ -70,6 +78,11 @@ div.container.text-start {
     transform:scale(1.01);
     transition-duration: 1s;
 }
+
+/* div.card-body{
+    padding-right: 5rem;
+} */
+
 
 /* aboutus */
 
