@@ -31,8 +31,9 @@ div.container.col-md-12{
 }
 
 .col-md-4 {
-    max-width: 100%;
-    height: 75vh;
+    /* max-width: 100%;
+    min-height:630px; */
+    padding-bottom: 20px;
 }
 .jumbotron {
     box-shadow:  5px 5px 38px #fffefec5,
@@ -73,14 +74,7 @@ div.container.text-start {
     color: #728299!important;
 }
 
-.card.col-sm-12.col-md-4.col-lg-3.mx-2.my-2.border:hover{
-    opacity: 0.9;
-    transform:scale(1.01);
-    transition-duration: 1s;
-}
-#ack{
-    padding-left: 0px;
-}
+
 
 /* div.card-body{
     padding-right: 5rem;
