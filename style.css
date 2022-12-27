@@ -91,6 +91,9 @@ div.container.text-start {
     display: block;
 
 }
+div.col-md-6.col-sm-12.overflow-hiddens{
+    margin-left: -15px;
+}
 
 /* form */
 
