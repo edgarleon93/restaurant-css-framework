@@ -78,6 +78,9 @@ div.container.text-start {
     transform:scale(1.01);
     transition-duration: 1s;
 }
+#ack{
+    padding-left: 0px;
+}
 
 /* div.card-body{
     padding-right: 5rem;
