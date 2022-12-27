@@ -16,4 +16,4 @@
 - AI generated textes
 
 ### The website
-- https://edgarleon93.github.io/restaurant-css-framework/index.html
+- https://edgarleon93.github.io/restaurant-css-framework/
