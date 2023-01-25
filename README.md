@@ -1,5 +1,5 @@
 # Jewellery Website
-###- _Welcome to my Jewellery Website! This website is a platform for showcasing and selling various types of jewellery._
+### - __Welcome to my Jewellery Website! This website is a platform for showcasing and selling various types of jewellery.__
 #####  - Live project here: https://edgarleon93.github.io/restaurant-css-framework/
 
 ## Technologies Used
